@@ -2,7 +2,7 @@
 This is our group's proposal Fit-coin for the hackathon.
 
 Presentation slides for Fit-coin: https://gamma.app/public/Fitcoin-ku32nl3jwgen9ru
-//
+
 URL for Fit-coin UI: https://app.uizard.io/p/911e83c5
 
 **below is the default description from NEAR protocol, the first platform we tried drafting a smart contract on
