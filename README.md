@@ -1,4 +1,5 @@
-# Fit_coin
+# ETH OXFORD HACKATHON
+This is our group's proposal Fit_coin for 
 
 Presentation slides for Fit-coin: https://gamma.app/public/Fitcoin-ku32nl3jwgen9ru
 URL for Fit-coin UI: https://app.uizard.io/p/911e83c5
