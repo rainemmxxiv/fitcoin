@@ -5,6 +5,8 @@ Presentation slides for Fit-coin: https://gamma.app/public/Fitcoin-ku32nl3jwgen9
 
 URL for Fit-coin UI: https://app.uizard.io/p/911e83c5
 
+Youtube link for demo: https://gamma.app/public/Fitcoin-ku32nl3jwgen9ru
+
 **below is the default description from NEAR protocol, the first platform we tried drafting a smart contract on
 cargo-near-new-project-description
 
